@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sismógrafo Interactivo con Firebase</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="sismografo-container">
+        <h1>Sismógrafo Interactivo 📈</h1>
+        <p>Haz clic para simular un sismo. Los resultados se guardarán en tiempo real en Firebase.</p>
+        <div class="canvas-wrapper">
+            <canvas id="sismografoCanvas"></canvas>
+        </div>
+        <div class="info-panel">
+            <h2>Magnitud del Sismo (Escala de Richter)</h2>
+            <p id="magnitudDisplay">---</p>
+        </div>
+    </div>
+
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-database-compat.js"></script>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,77 @@
+body {
+    background-color: #f0f2f5;
+    color: #333;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.sismografo-container {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 800px;
+    text-align: center;
+}
+
+h1 {
+    color: #1e3a5f;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #555;
+    margin-bottom: 25px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.canvas-wrapper {
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    margin-bottom: 25px;
+    overflow: hidden;
+    background-color: #fcfdfd;
+}
+
+canvas {
+    display: block;
+    width: 100%;
+    height: 250px;
+    cursor: crosshair;
+}
+
+.info-panel {
+    background-color: #e8f0fe;
+    border: 1px solid #c9dfff;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.info-panel h2 {
+    color: #1e3a5f;
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+}
+
+#magnitudDisplay {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #d9534f;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #1e3a5f;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-block;
+}
