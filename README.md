@@ -9,33 +9,20 @@
 ![Estado](https://img.shields.io/badge/estado-en%20prototipo-yellow)  
 ![Licencia](https://img.shields.io/badge/licencia-MIT-green)
 
-> Breve descripción del proyecto: ¿qué hace, para quién está hecho y por qué es importante?
+> Nuestra asistente virtual Alexa convencional, pero con la capacidad adicional de avisarnos cuando hay un sismo, con señal verbal e instrucciones de los pasos a seguir, ahora con la capacidad de medir la magnitud del sismo, información que el usuario puede encontrar en nuestra página web, aumentando la seguridad y disminuyendo el tiempo de respuesta de los hogares a la hora de un sismo.
 
 ---
 
-## 🎯 Objetivo del Proyecto
+Este proyecto busca diseñar un sistema de alarma sísmica inteligente conectado a Alexa, capaz de alertar de manera rápida y accesible a todas las personas en caso de un sismo, esto resuelve la falta de sistemas de alerta sísmica en los hogares que sean realmente accesibles y que permitan reaccionar con rapidez, especialmente en poblaciones vulnerables. Este proyecto está dirigido a los hogares en general, con especial énfasis en adultos mayores, niños y personas con discapacidad visual.
 
-Explica brevemente el propósito general:
-
-- Qué problema busca resolver
-- A qué público está dirigido
-- Qué lo hace diferente o especial
+¿Qué lo hace diferente? Nuestro proyecto integra señalizaciones verbales y auditivas en un mismo sistema, con un tiempo de respuesta eficiente, ofreciendo seguridad inclusiva y práctica a través de un dispositivo cotidiano como Alexa.
 
 ---
 
 ## 🧪 Prototipo
 
-🔗 **[Ver prototipo funcional](https://tuprototipo.netlify.app)**  
-📁 **[Ver prototipo en Figma](https://www.figma.com/file/...)**
-
-### 📸 Capturas
-
-| Pantalla de Inicio | Vista de Usuario | Panel Admin |
-|--------------------|------------------|-------------|
-|(<img width="302" height="276" alt="image" src="https://github.com/user-attachments/assets/76e99c27-2373-4f38-9dd8-80d045f3cd82" />
-) | ![Usuario](./assets/usuario.png) | ![Admin](./assets/admin.png) |
-
----
+🔗 **Ver diseño prototipo casita: https://youtu.be/paGsMvhh0HE**  
+📁 **Ver funcionamiento del poryecto: https://youtube.com/shorts/IjZ93sLBE-c?feature=share**
 
 ## 🧰 Tecnologías Utilizadas
 
@@ -59,8 +46,6 @@ Explica brevemente el propósito general:
 
 ### Requisitos previos
 
-- Node.js ≥ 18  
-- Git instalado  
-- Navegador moderno
-
-### Pasos
+- Arduino IDE
+- Circuito
+- Alexa Echo Dot
