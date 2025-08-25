@@ -22,12 +22,12 @@ Este proyecto busca diseñar un sistema de alarma sísmica inteligente conectado
 ## 🧪 Prototipo
 
 🔗 **Ver diseño prototipo casita: https://youtu.be/paGsMvhh0HE**  
-📁 **Ver funcionamiento del poryecto: https://youtube.com/shorts/IjZ93sLBE-c?feature=share**
+📁 **Ver funcionamiento del proyecto: https://youtube.com/shorts/IjZ93sLBE-c?feature=share**
 
 ## 🧰 Tecnologías Utilizadas
 
 **Frontend:**
-- React / Vue / HTML + CSS + JS  
+- HTML + CSS + JS  
 - Solidworks
 
 **Backend:**
