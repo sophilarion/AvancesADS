@@ -22,7 +22,8 @@ Este proyecto busca diseñar un sistema de alarma sísmica inteligente conectado
 ## 🧪 Prototipo
 
 🔗 **Ver diseño prototipo casita: https://youtu.be/paGsMvhh0HE**  
-📁 **Ver funcionamiento del proyecto: https://youtube.com/shorts/IjZ93sLBE-c?feature=share**
+📁 **Ver funcionamiento del proyecto pt. 1: https://youtube.com/shorts/S_k898qzQHk?feature=share**
+📁 **Ver funcionamiento del proyecto pt. 2: https://youtube.com/shorts/bnuJwxC_6w8?feature=share**
 
 ## 🧰 Tecnologías Utilizadas
 
